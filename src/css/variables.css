@@ -1,0 +1,14 @@
+:root{
+    --main-color: #757761;
+    --secondary-color: #F4E76E;
+    --tertiary-color: #F7FE72;
+    --contrast: #8FF7A7;
+    --pop: #51BBFE;
+    --light-text: whitesmoke;
+    --text:#8D99AE;
+
+    /* typography */
+
+    --main-font: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
